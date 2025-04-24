@@ -1,0 +1,3 @@
+# 🍎 Installation – Mac Edition (Homebrew FTW)
+
+## 1️⃣ Installer Java 17 (via Homebrew)...

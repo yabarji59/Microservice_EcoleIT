@@ -1,0 +1,3 @@
+# 🐧 Installation – Linux Edition (Ubuntu/Debian)
+
+## 1️⃣ Installer Java 17 (JDK)...

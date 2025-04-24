@@ -1,0 +1,3 @@
+# 🪟 Installation – Windows Edition
+
+## 1️⃣ Installer Java 17 (JDK)...
